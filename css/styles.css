@@ -10,3 +10,11 @@ header {
     justify-content: center;
 }
 
+.logo h2 { 
+    color: #fff;
+    font-size: 30px;
+}
+
+.logo span {
+    color: #1A7993
+}
