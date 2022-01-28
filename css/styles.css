@@ -18,3 +18,34 @@ header {
 .logo span {
     color: #1A7993
 }
+
+.section-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.area-title h3 {
+    color: #fff;
+    font-weight: normal;
+}
+
+.area-title h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+    margin-top: -18px;
+}
+
+.area-title a {
+    display: inline-block; 
+    background: #1A7993;
+    padding: 15px 60px;
+    color: #fff;
+
+}
+
+.area-imagem img{
+    width: 350px;
+    height: auto;
+}
