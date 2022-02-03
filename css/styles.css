@@ -22,6 +22,8 @@ header {
 .section-1 {
     display: flex;
     justify-content: center;
+    margin-top: 100px;
+
 }
 
 .area-title h3 {
@@ -34,7 +36,7 @@ header {
     font-weight: 700;
     font-size: 45px;
     line-height: 50px;
-    margin-top: -18px;
+    margin-top: -16px;
 }
 
 .area-title a {
@@ -42,10 +44,14 @@ header {
     background: #1A7993;
     padding: 15px 60px;
     color: #fff;
+    font-size: 20px;
+    cursor: pointer;
 
 }
 
 .area-imagem img{
-    width: 350px;
+    width: 460px;
     height: auto;
+    margin-top: 20px;
+    margin-left: 55px;
 }
