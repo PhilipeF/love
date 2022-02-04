@@ -145,3 +145,48 @@ header {
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* AREA FORM */
+
+.area-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-direction: column;
+}
+
+
+.formulario form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+}
+
+.formulario h2 {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.formulario input {
+    margin-top: 10px;
+    height: 30px;
+    border: none;
+    outline: none;
+    font-family: 'Oswald';
+}
+
+input::placeholder {
+    color: #000;
+    text-transform: uppercase;
+}
+
+input[type="submit"] {
+    background-color: #1A7993;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+}
