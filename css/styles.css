@@ -113,6 +113,7 @@ header {
     background: #1A7993;
     color: #fff;
     height: 342px;
+    margin-bottom: 100px;
 }
 
 .area-title-s3 h1 {
@@ -152,8 +153,8 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 100px;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 
@@ -161,7 +162,6 @@ header {
     display: flex;
     flex-direction: column;
     width: 400px;
-    height: 300px;
 }
 
 .formulario h2 {
@@ -189,4 +189,19 @@ input[type="submit"] {
     color: #fff;
     font-weight: 700;
     cursor: pointer;
+}
+
+.social {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.social h3 {
+    color: #fff;
+    font-weight: normal;
+}
+
+.social img {
+    width: 25px;
+    margin-left: 15px;
 }
