@@ -11,14 +11,6 @@ Projeto desenvolvido para treinar minhas habiliades em html e css seguindo o tem
 <br>
 <br>
 
-<h2> Vídeo do Projeto </h2>
-<br>
-
-<video src='video/videpagelove.mkv'></video>
-<br>
-<br>
-
-
 ## 🚀 Tecnologias e ferramentas utilizadas
 
 <br>
