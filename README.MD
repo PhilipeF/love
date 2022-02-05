@@ -7,7 +7,7 @@
 
 <br>
 
-Projeto desenvolvido para treinar minhas habiliades em html e css seguindo o tema love que foi uma lading page criada utilizando somente HTML/CSS seguindo orientações do canal do "Jefferson Vasconcellos" no   youtube. Faço o uso desta pratica para agregar em meus conhecimentos visando projetos maiores no futuro.
+Projeto desenvolvido para treinar minhas habilidades em html e css seguindo o tema love que foi uma lading page criada utilizando somente HTML/CSS seguindo orientações do canal do "Jefferson Vasconcellos" no youtube. Faço o uso desta pratica para agregar em meus conhecimentos visando projetos maiores no futuro.
 <br>
 <br>
 
