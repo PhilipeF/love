@@ -40,8 +40,13 @@ https://github.com/PhilipeF/love.git
 Execute o projeto:
 
 ```
-Para executar o projeto foi utilizado a extensão Live Share do vscode
+Para executar o projeto foi utilizado a extensão Live Server do vscode
 ```
+
+<h2>Segue abaixo um video do projeto</h2>
+<br>
+
+https://user-images.githubusercontent.com/64853039/157826811-9e2184b7-e787-422c-98c1-9fb498a29a9e.mp4
 
 ## 📲 Contato
 
